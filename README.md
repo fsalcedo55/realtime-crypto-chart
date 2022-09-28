@@ -17,6 +17,10 @@ $ npm start
 - TailwindCSS
 - DaisyUI
 
+## Deployment
+
+https://deluxe-vacherin-6c25f3.netlify.app/
+
 ![Alt text](/public/screenshot1.png?raw=true "Optional Title")
 
 # realtime-crypto-chart
